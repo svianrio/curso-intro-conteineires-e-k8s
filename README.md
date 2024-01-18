@@ -12,17 +12,17 @@ Esse curso nasceu de oportunidades identificadas em conversas com amigos, profis
 
 Um aplicativo nativo da nuvem é projetado desde o início para aproveitar a elasticidade e natureza distribuída da nuvem. Ele costuma ser dividido em vários serviços autônomos por meio do uso de tecnologias e metodologias, ou seja, DevOps, entrega contínua e integração contínua, contêineres, micros serviços e APIs declarativas. Isso permite que as equipes implantem e escalonem componentes de maneira independente, para que possam fazer atualizações, corrigir problemas e fornecer novos recursos sem qualquer interrupção do serviço.
 
-![Alt text]https://github.com/svianrio/curso-intro-conteineires-e-k8s/images/cloud-native-apps.png "Aplicativo nativo da nuvem")
+![Alt text](https://github.com/svianrio/curso-intro-conteineires-e-k8s/images/cloud-native-apps.png "Aplicativo nativo da nuvem")
 
 Para se ter uma ideia da importância do mercado de aplicativos nativos de nuvem, [um relatório publicado recentemente pela Allied Market](../(%20https:/www.alliedmarketresearch.com/cloud-native-applications-market-A210373) indica que esse mercado gerou mundialmente US$ 5,3 bilhões em 2022 e estima-se que alcance US$ 48,8 bilhões até 2032, testemunhando um CAGR (taxa de crescimento agregado e composto) de 25,2% de 2023 a 2032. A rápida e crescente implantação de modelos preditivos de machine learning deve incrementar ainda mais a utilização de aplicativos modernos em contêineres.
 
 A intenção é oferecer esse curso de introdutório como primeiro passo para a formação de engenheiros de software e desenvolvedores de aplicativos especialistas em aplicativos modernos (Dev) e para engenheiros administradores de infraestrutura (Ops). O seu conteúdo foi elaborado usando como referência o livro "Kubernetes Up & Running" escrito por Brendan Burns, Joe Beda, Kelsey Hightower, e Lachlan Evenson e conta com inúmeras fontes online de informações teóricas e práticas. Tentei sempre que possível oferecer referencias de profissionais que fizeram e tem feito a diferença no mercado tecnologia, alguns deles Brasileiros como o engenheiro Luiz André Barroso, executivo da Google criador e implantador dos data center modernos que originaram a computação em nuvem.
 
-![Alt text] https://github.com/svianrio/curso-intro-conteineires-e-k8s/images/the-data-center-is-the-computer.png "O data center é o computador")
+![Alt text] (https://github.com/svianrio/curso-intro-conteineires-e-k8s/images/the-data-center-is-the-computer.png "O data center é o computador")
 
 Algumas passagens dos filmes como "Matrix" e "Inception" são usadas para ilustrar conceitos abstratos como virtualização, contêineres e infraestrutura como código.
 
-![Alt text] https://github.com/svianrio/curso-intro-conteineires-e-k8s/images/matrix-door-on-your-left.png "Door on your left")
+![Alt text] (https://github.com/svianrio/curso-intro-conteineires-e-k8s/images/matrix-door-on-your-left.png "Door on your left")
 
 Aproveito para agradecer aos Professores [Luis Sacchi](https://www.linkedin.com/in/lu%C3%ADs-henrique-sacchi-33b92321/) e [Reinaldo Valle Junior](https://www.linkedin.com/in/rvallejr/) e aos alunos do terceiro ano do curso de Bacharelado em Ciência da Computação do [IFSP – Campus Salto](https://slt.ifsp.edu.br/) pelo apoio e pela valiosa retroalimentação sobre o material e as aulas que ministrei no segundo semestre do ano passado.
 
