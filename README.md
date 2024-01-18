@@ -39,8 +39,8 @@ Pessoalmente, acredito que a vida não é um jogo de soma zero e que ensinar alg
 
 Vamos dar uma rápida olhada no conteúdo disponível:
 
-- Aula 1 – Apresentação do curso, motivação e conceitos básicos
-- Aula 2 – Conceitos básicos: virtualização
+<strong> Aula 1 – Apresentação do curso, motivação e conceitos básicos </strong>
+<strong> Aula 2 – Conceitos básicos: virtualização </strong>
 
 1. **Conceitos Básicos**
   - Abstrações em Ciência da Computação
@@ -48,18 +48,18 @@ Vamos dar uma rápida olhada no conteúdo disponível:
   - MicroVMs e Unikernels
   - Aplicativos Modernos
 
-- Aulas 3,4 e 5 – Aplicativos Modernos e Contêineres
+<strong> Aulas 3,4 e 5 – Aplicativos Modernos e Contêineres </strong>
 
-1. **Containers**
+2. **Containers**
   - Origem
   - Fundamentos
   - Criação e execução
   - Registro e reuso
   - Infraestrutura como Código
 
-- Aulas 5, 6 e 7 – Orquestração de aplicativos em contêineres e conclusão do curso
+<strong> Aulas 5, 6 e 7 – Orquestração de aplicativos em contêineres e conclusão do curso </strong>
 
-1. **Kubernetes**
+3. **Kubernetes**
   - Origem
   - Arquitetura
   - Pods
