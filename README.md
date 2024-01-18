@@ -25,7 +25,7 @@ A intenção é oferecer esse curso introdutório como primeiro passo para a for
   <img src="/images/the-data-center-is-the-computer.svg">
 </p>
 
-Algumas passagens dos filmes como "Matrix" e "Inception" são usadas para ilustrar conceitos abstratos como virtualização, contêineres e infraestrutura como código.
+Algumas passagens de filmes como "Matrix" e "Inception" são usadas para ilustrar conceitos abstratos como virtualização, contêineres e infraestrutura como código.
 
 <p align="center">
   <img src="/images/matrix-door-on-your-left.svg">
