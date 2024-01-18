@@ -18,11 +18,11 @@ Para se ter uma ideia da importância do mercado de aplicativos nativos de nuvem
 
 A intenção é oferecer esse curso de introdutório como primeiro passo para a formação de engenheiros de software e desenvolvedores de aplicativos especialistas em aplicativos modernos (Dev) e para engenheiros administradores de infraestrutura (Ops). O seu conteúdo foi elaborado usando como referência o livro "Kubernetes Up & Running" escrito por Brendan Burns, Joe Beda, Kelsey Hightower, e Lachlan Evenson e conta com inúmeras fontes online de informações teóricas e práticas. Tentei sempre que possível oferecer referencias de profissionais que fizeram e tem feito a diferença no mercado tecnologia, alguns deles Brasileiros como o engenheiro Luiz André Barroso, executivo da Google criador e implantador dos data center modernos que originaram a computação em nuvem.
 
-![O data center é o computador] (/images/the-data-center-is-the-computer.png "O data center é o computador")
+![O data center é o computador](/images/the-data-center-is-the-computer.png "O data center é o computador")
 
 Algumas passagens dos filmes como "Matrix" e "Inception" são usadas para ilustrar conceitos abstratos como virtualização, contêineres e infraestrutura como código.
 
-![Door on your left] (/images/matrix-door-on-your-left.png "Door on your left")
+![Door on your left](/images/matrix-door-on-your-left.png "Door on your left")
 
 Aproveito para agradecer aos Professores [Luis Sacchi](https://www.linkedin.com/in/lu%C3%ADs-henrique-sacchi-33b92321/) e [Reinaldo Valle Junior](https://www.linkedin.com/in/rvallejr/) e aos alunos do terceiro ano do curso de Bacharelado em Ciência da Computação do [IFSP – Campus Salto](https://slt.ifsp.edu.br/) pelo apoio e pela valiosa retroalimentação sobre o material e as aulas que ministrei no segundo semestre do ano passado.
 
