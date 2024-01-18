@@ -57,7 +57,7 @@ Pessoalmente, acredito que a vida não é um jogo de soma zero e que ensinar alg
   - Registro e reuso
   - Infraestrutura como Código
 
-<strong> Aulas 5, 6 e 7 – Orquestração de aplicativos em contêineres e conclusão do curso </strong>
+<strong> Aulas 6, 7 e 8 – Orquestração de aplicativos em contêineres e conclusão do curso </strong>
 
 3. **Kubernetes**
   - Origem
