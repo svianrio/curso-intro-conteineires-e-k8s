@@ -12,7 +12,10 @@ Esse curso nasceu de oportunidades identificadas em conversas com amigos, profis
 
 Um aplicativo nativo da nuvem é projetado desde o início para aproveitar a elasticidade e natureza distribuída da nuvem. Ele costuma ser dividido em vários serviços autônomos por meio do uso de tecnologias e metodologias, ou seja, DevOps, entrega contínua e integração contínua, contêineres, micros serviços e APIs declarativas. Isso permite que as equipes implantem e escalonem componentes de maneira independente, para que possam fazer atualizações, corrigir problemas e fornecer novos recursos sem qualquer interrupção do serviço.
 
-![Aplicativo nativo de nuvem](/images/cloud-native-apps.png "Aplicativo nativo de nuvem")
+<p align="center">
+  <img src="/images/cloud-native-apps.png">
+</p>
+
 
 Para se ter uma ideia da importância do mercado de aplicativos nativos de nuvem, [um relatório publicado recentemente pela Allied Market](https://www.alliedmarketresearch.com/cloud-native-applications-market-A210373) indica que esse mercado gerou mundialmente US$ 5,3 bilhões em 2022 e estima-se que alcance US$ 48,8 bilhões até 2032, testemunhando um CAGR (taxa de crescimento agregado e composto) de 25,2% de 2023 a 2032. A rápida e crescente implantação de modelos preditivos de machine learning deve incrementar ainda mais a utilização de aplicativos modernos em contêineres.
 
