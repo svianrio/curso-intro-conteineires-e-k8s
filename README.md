@@ -1,6 +1,6 @@
-**Habilitando Aplicações Nativas de Nuvem**
+# Habilitando Aplicações Nativas de Nuvem
 
-**Introdução a Contêineres e Kubernetes**
+# Introdução a Contêineres e Kubernetes
 
 Estou disponibilizando a partir de hoje no Github de maneira gratuita o material do curso "Habilitando Aplicações Nativas de Nuvem: Introdução a Contêineres e Kubernetes" escrito por mim na Língua Portuguesa.
 
@@ -37,7 +37,7 @@ Enfim, espero que este material seja de alguma maneira útil para você ou para 
 
 Pessoalmente, acredito que a vida não é um jogo de soma zero e que ensinar alguém é também a melhor maneira de aprender.
 
-Vamos dar uma rápida olhada no conteúdo disponível:
+## Vamos dar uma rápida olhada no conteúdo disponível:
 
 <strong> Aula 1 – Apresentação do curso, motivação e conceitos básicos </strong>
 <strong> Aula 2 – Conceitos básicos: virtualização </strong>
