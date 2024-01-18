@@ -71,6 +71,5 @@ Pessoalmente, acredito que a vida não é um jogo de soma zero e que ensinar alg
 
 <strong>"Quem começa já está pela metade. Ouse saber, comece agora!" Mãos à obra! </strong>
 
-Sergio Rio
-sergio@sergiorio.tech
+<strong> Sergio Rio </strong> - sergio@sergiorio.tech
 
