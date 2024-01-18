@@ -69,4 +69,8 @@ Vamos dar uma rápida olhada no conteúdo disponível:
   - Instalação e administração básica
   - Implantação de um caso de uso (exemplo)
 
-"Quem começa já está pela metade. Ouse saber, comece agora!" Mãos à obra!
+<strong>"Quem começa já está pela metade. Ouse saber, comece agora!" Mãos à obra! </strong>
+
+Sergio Rio
+sergio@sergiorio.tech
+
