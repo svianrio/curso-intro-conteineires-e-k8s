@@ -32,6 +32,7 @@ Algumas passagens de filmes como "Matrix" e "Inception" são usadas para ilustra
 </p>
 
 <strong> Pessoalmente, acredito que a vida não é um jogo de soma zero e que ensinar alguém é também a melhor maneira de aprender. </strong>
+
 Aproveito para agradecer aos Professores [Luis Sacchi](https://www.linkedin.com/in/lu%C3%ADs-henrique-sacchi-33b92321/) e [Reinaldo Valle Junior](https://www.linkedin.com/in/rvallejr/) e aos alunos do terceiro ano do curso de Bacharelado em Ciência da Computação do [IFSP – Campus Salto](https://slt.ifsp.edu.br/) pelo apoio e pela valiosa retroalimentação sobre o material e as aulas que ministrei no segundo semestre do ano passado.
 
 Enfim, espero que este material seja de alguma maneira útil para você ou para alguém que você conheça. Por favor entre em contato se você for professor ou instrutor interessado em utilizar esse material em sala de aula ou eventualmente em colaborar no seu aperfeiçoamento.
